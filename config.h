@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "mononoki Nerd Font:pixelsize=21:antialias=true:autohint=true";
+static char *font = "FiraCode Nerd Font:pixelsize=21:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
     "Noto Sans CJK SC:pixelsize=21:antialias=true:autohint=true",
